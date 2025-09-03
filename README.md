@@ -96,9 +96,36 @@ Accounting integrity is supported by institutional standards (e.g., GAAP), profe
 
 Corporate governance ensures management acts in shareholders’ best interests.
 
+*Notes*
+Statement of finencial position
+公司+statement of financial position+日期
+*A=E+L*
+Asset
+Accounting Receivable 非正式 短期
+notes receivable 正式 长期
+Cash
+Land
+Buliding
+Tools and Equipment
+
+
+Liabilities
+
+notes payable 正式 长期负债 银行或金融机构
+acounting payable 商品或服务供应商 
+
+Equite
+
+Share Capital
+Retained Earning <--賺取的收入
+
+*支付的話在Retained Earning扣除 (expense1800= cash-1800 , retained earning-1800)
 
 
 
+Statement of cash flow
+公司+statement of cash flow+日期
+profie=revenues+expense
 
 
 
